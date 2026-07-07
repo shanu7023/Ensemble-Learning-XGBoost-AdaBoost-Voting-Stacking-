@@ -97,9 +97,9 @@ Performance Metrics:
 ```
 Ensemble-Learning/
 │
-├── AdaBoost.py
-├── XGBoost.py
-├── Voting_and_Stacking.py
+├── adaboost.ipynb
+├── ensemble_heterogeneous.ipynb
+├── xgboost_classification.ipynb
 └── README.md
 ```
 
